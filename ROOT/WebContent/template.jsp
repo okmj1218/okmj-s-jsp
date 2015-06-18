@@ -13,7 +13,6 @@
 	h1,h2,input, textarea, pre, select, li, td, th {
 		font-family: ³ª´®°íµñ;
 	}
-
 </style>
 </head>
 <body>
